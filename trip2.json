@@ -1,0 +1,38 @@
+{
+    "departWake": {
+      "tod": "0715"
+    },
+    "departDayLWT": {
+      "tod": "0500"
+    },
+    "departSleep": {
+      "tod": "2330"
+    },
+    "dstWake": {
+      "tod": "0600"
+    },
+    "dstSleep": {
+      "tod": "2200"
+    },
+    "arrivalDayEBT": {
+      "tod": "2230"
+    },
+    "itinerary": [
+      {
+        "departDate": "2020-08-06T06:12:00.000-0700",
+        "departPlace": "SEA",
+        "departTZ": "America/Los_Angeles",
+        "arriveDate": "2020-08-06T15:45:00.000-0400",
+        "arrivePlace": "JFK",
+        "arriveTZ": "America/New_York"
+      },
+      {
+        "departDate": "2020-08-07T12:51:00.000-0400",
+        "departPlace": "JFK",
+        "departTZ": "America/New_York",
+        "arriveDate": "2020-08-08T00:53:00.000+0100",
+        "arrivePlace": "LHR",
+        "arriveTZ": "Europe/London"
+      }
+    ]
+  }

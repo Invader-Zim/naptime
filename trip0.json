@@ -1,0 +1,30 @@
+{
+    "departWake": {
+      "tod": "0700"
+    },
+    "departDayLWT": {
+      "tod": "0730"
+    },
+    "departSleep": {
+      "tod": "2300"
+    },
+    "dstWake": {
+      "tod": "0900"
+    },
+    "dstSleep": {
+      "tod": "2500"
+    },
+    "arrivalDayEBT": {
+      "tod": "2330"
+    },
+    "itinerary": [
+      {
+        "departDate": "2020-08-02T16:45:00.000-0700",
+        "departPlace": "SEA",
+        "departTZ": "America/Los_Angeles",
+        "arriveDate": "2020-08-03T11:15:00.000+0100",
+        "arrivePlace": "LHR",
+        "arriveTZ": "Europe/London"
+      }
+    ]
+  }

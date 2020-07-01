@@ -1,0 +1,49 @@
+
+Travel Segment 1
+        departs: Sat Aug 01 2020 17:14:00 GMT-0700 (Pacific Daylight Time)
+           from: SEA
+        arrives: Sat Aug 01 2020 21:40:00 GMT-0700 (Pacific Daylight Time)
+             in: ORD
+    travel time: 4:26
+
+Travel Segment 2
+        departs: Sat Aug 01 2020 23:10:00 GMT-0700 (Pacific Daylight Time)
+           from: ORD
+        arrives: Sun Aug 02 2020 08:22:00 GMT-0700 (Pacific Daylight Time)
+             in: LHR
+    travel time: 9:12
+
+         segments: 2
+total travel time: 15:08
+     wakeful time: 32:30
+
+
+Nap Blackout Periods
+          start: Sat Aug 01 2020 13:14:00 GMT-0700 (Pacific Daylight Time)
+            end: Sat Aug 01 2020 18:14:00 GMT-0700 (Pacific Daylight Time)
+       duration: 5:00
+
+          start: Sat Aug 01 2020 20:40:00 GMT-0700 (Pacific Daylight Time)
+            end: Sat Aug 01 2020 23:40:00 GMT-0700 (Pacific Daylight Time)
+       duration: 3:00
+
+          start: Sat Aug 01 2020 23:40:00 GMT-0700 (Pacific Daylight Time)
+            end: Sun Aug 02 2020 00:10:00 GMT-0700 (Pacific Daylight Time)
+       duration: 0:30
+
+          start: Sun Aug 02 2020 07:22:00 GMT-0700 (Pacific Daylight Time)
+            end: Sun Aug 02 2020 10:22:00 GMT-0700 (Pacific Daylight Time)
+       duration: 3:00
+
+Nap Details BEFORE Remedy:
+       nap start: Sat Aug 01 2020 20:45:00 GMT-0700 (Pacific Daylight Time)
+         nap end: Sun Aug 02 2020 00:45:00 GMT-0700 (Pacific Daylight Time)
+    nap duration: 4 hours
+
+Nap Details:
+    nap reqd mod: true
+          remedy: Remedy 1 (shift nap time)
+       nap start: Sun Aug 02 2020 00:10:00 GMT-0700 (Pacific Daylight Time)
+         nap end: Sun Aug 02 2020 04:10:00 GMT-0700 (Pacific Daylight Time)
+    nap duration: 4 hours
+

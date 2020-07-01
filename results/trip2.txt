@@ -1,0 +1,49 @@
+
+Travel Segment 1
+        departs: Thu Aug 06 2020 06:12:00 GMT-0700 (Pacific Daylight Time)
+           from: SEA
+        arrives: Thu Aug 06 2020 12:45:00 GMT-0700 (Pacific Daylight Time)
+             in: JFK
+    travel time: 6:33
+
+Travel Segment 2
+        departs: Fri Aug 07 2020 09:51:00 GMT-0700 (Pacific Daylight Time)
+           from: JFK
+        arrives: Fri Aug 07 2020 16:53:00 GMT-0700 (Pacific Daylight Time)
+             in: LHR
+    travel time: 7:02
+
+         segments: 2
+total travel time: 34:41
+     wakeful time: 57:30
+
+
+Nap Blackout Periods
+          start: Thu Aug 06 2020 02:12:00 GMT-0700 (Pacific Daylight Time)
+            end: Thu Aug 06 2020 07:12:00 GMT-0700 (Pacific Daylight Time)
+       duration: 5:00
+
+          start: Thu Aug 06 2020 11:45:00 GMT-0700 (Pacific Daylight Time)
+            end: Thu Aug 06 2020 14:45:00 GMT-0700 (Pacific Daylight Time)
+       duration: 3:00
+
+          start: Thu Aug 06 2020 14:45:00 GMT-0700 (Pacific Daylight Time)
+            end: Fri Aug 07 2020 10:51:00 GMT-0700 (Pacific Daylight Time)
+       duration: 20:06
+
+          start: Fri Aug 07 2020 15:53:00 GMT-0700 (Pacific Daylight Time)
+            end: Fri Aug 07 2020 18:53:00 GMT-0700 (Pacific Daylight Time)
+       duration: 3:00
+
+Nap Details BEFORE Remedy:
+       nap start: Fri Aug 07 2020 06:45:00 GMT-0700 (Pacific Daylight Time)
+         nap end: Fri Aug 07 2020 14:45:00 GMT-0700 (Pacific Daylight Time)
+    nap duration: 8 hours
+
+Nap Details:
+    nap reqd mod: true
+          remedy: Remedy 4 (adjust nap duration)
+       nap start: Thu Aug 06 2020 07:45:00 GMT-0700 (Pacific Daylight Time)
+         nap end: Thu Aug 06 2020 11:45:00 GMT-0700 (Pacific Daylight Time)
+    nap duration: 4 hours
+
